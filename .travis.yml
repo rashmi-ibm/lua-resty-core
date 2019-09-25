@@ -1,7 +1,7 @@
 sudo: required
 dist: trusty
 
-os: linux
+os: linux-ppc64le
 
 language: c
 
